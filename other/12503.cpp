@@ -36,5 +36,5 @@ int main() {
       act(ins, p, vec);
     }
     cout << p << "\n";
-  }
+ }
 }
