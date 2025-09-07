@@ -2,18 +2,18 @@
 
 ## Category
 
-- ### deque and list
+1. ### deque and list
 
-- ### dfs
+1. ### dfs
 
-- ### map
+1. ### map
 
-- ### priority queue
+1. ### priority queue
 
-- ### set
+1. ### set
 
-- ### stack
+1. ### stack
 
-- ### topological sort
+1. ### topological sort
 
-- ### other
+1. ### other
