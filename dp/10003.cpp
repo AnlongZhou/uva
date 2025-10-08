@@ -4,12 +4,14 @@ using namespace std;
 
 int main() {
     int l, n;
+
     while(cin >> l, l) {
         cin >> n;
         int dp[52][52] = {0};
         int *table = new int[n + 2];
         n++;
         table[0] = 0; table[n] = l;
+
         for(int i = 1 ; i < n ; i++) {
             cin >> table[i];
             for(int r = 2 ; r <= n ; ++r) {
